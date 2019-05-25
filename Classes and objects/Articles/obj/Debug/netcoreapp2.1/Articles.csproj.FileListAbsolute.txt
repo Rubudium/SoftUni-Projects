@@ -1,0 +1,11 @@
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\bin\Debug\netcoreapp2.1\Articles.deps.json
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\bin\Debug\netcoreapp2.1\Articles.runtimeconfig.json
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\bin\Debug\netcoreapp2.1\Articles.runtimeconfig.dev.json
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\bin\Debug\netcoreapp2.1\Articles.dll
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\bin\Debug\netcoreapp2.1\Articles.pdb
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\obj\Debug\netcoreapp2.1\Articles.csprojAssemblyReference.cache
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\obj\Debug\netcoreapp2.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\obj\Debug\netcoreapp2.1\Articles.AssemblyInfoInputs.cache
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\obj\Debug\netcoreapp2.1\Articles.AssemblyInfo.cs
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\obj\Debug\netcoreapp2.1\Articles.dll
+C:\Users\Hristogret\source\repos\Classes and objects\Articles\obj\Debug\netcoreapp2.1\Articles.pdb
