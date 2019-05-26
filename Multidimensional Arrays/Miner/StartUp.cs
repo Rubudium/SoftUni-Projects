@@ -1,4 +1,4 @@
-namespace _09.Miner
+namespace Miner
 {
 	using System;
 	using System.Linq;
