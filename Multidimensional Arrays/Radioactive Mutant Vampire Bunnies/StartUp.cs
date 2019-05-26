@@ -1,4 +1,4 @@
-namespace _10.Bunny
+namespace Radioactive Mutant Vampire Bunnies
 {
 	using System;
 	using System.Collections.Generic;
